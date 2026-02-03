@@ -1,0 +1,144 @@
+1️⃣ Put the printer into service mode
+
+Before touching hardware, they connect the printer to a PC and force it into Canon service mode using a specific button sequence.
+
+Why this matters
+
+Normal users can’t reset the error in normal mode
+
+Service mode allows access to internal maintenance functions
+
+2️⃣ Open the printer body
+
+They partially disassemble the printer:
+
+Remove outer plastic covers
+
+Lift the top frame
+
+Access the base of the printer
+
+This is the messy part
+The ink absorber pads are deep inside, near the bottom.
+
+3️⃣ Remove the ink absorber pads
+
+Inside you’ll find:
+
+Multiple sponge-like pads
+
+Completely soaked with black and color ink
+
+Technicians either:
+
+Replace the pads with new ones (official method), or
+
+Clean and reuse them (very common in practice)
+
+4️⃣ Clean or replace the pads
+
+If cleaning (most common for older models like MP280):
+
+Pads are washed with warm water or cleaning solution
+
+Squeezed repeatedly until water runs clear
+
+Fully dried (very important—usually overnight)
+
+Why drying matters:
+
+Wet pads can cause ink overflow
+
+Moisture can damage electronics
+
+5️⃣ Clean the inside of the printer
+
+They also:
+
+Wipe pooled ink from the base
+
+Clean ink tubes and surrounding plastic
+
+Check for leaks or cracks
+
+This prevents:
+
+Ink dripping later
+
+Smearing or electrical shorts
+
+6️⃣ Reinstall pads and reassemble
+
+Once dry:
+
+Pads go back into their original positions
+
+Printer is reassembled carefully
+
+Screws and clips restored
+
+7️⃣ Reset the waste ink counter
+
+This step is critical.
+
+Even with clean pads, the printer will NOT work unless:
+
+The waste ink counter is reset to zero
+
+Technicians do this using:
+
+Canon service software, or
+
+Service-mode button commands
+
+This tells the printer:
+
+“Pads are empty again—safe to operate”
+
+8️⃣ Test print & cleaning cycle
+
+Finally:
+
+Power on
+
+Run a test print
+
+Run a light cleaning cycle
+
+Check for leaks
+
+If no error appears → job done ✅
+
+Why Canon discourages DIY
+
+Not because it’s impossible—but because:
+
+Ink is very messy
+
+Pads are hard to reach
+
+Incorrect reset can brick the printer
+
+Ink stains are permanent 😅
+
+Honest technician truth
+
+For MP280-series printers, many service centers:
+
+Clean pads instead of replacing them
+
+Reset counters
+
+Charge mainly for labor, not parts
+
+That’s why repair often costs more than buying a new printer.
+
+Quick reality check
+
+✔️ Technically fixable
+
+✔️ Not a true hardware failure
+
+❌ Canon doesn’t intend end users to service it
+
+❌ Often not cost-effective
